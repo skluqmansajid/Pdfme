@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Pdfme" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/brand_red</item>
+        <item name="colorOnPrimary">@color/paper</item>
+    </style>
+</resources>
